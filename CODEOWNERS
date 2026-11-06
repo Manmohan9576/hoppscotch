@@ -19,3 +19,5 @@ docker-compose.yml                                      @balub
 docker-compose.deploy.yml                               @balub
 *.Caddyfile                                             @balub
 .dockerignore                                           @balub
+
+# how to deploye
